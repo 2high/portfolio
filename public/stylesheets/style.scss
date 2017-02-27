@@ -1,0 +1,223 @@
+
+body{
+  padding-top: 20px;
+}
+
+// COLOR
+$bggrey: #F1F2F7;
+$bgcolor : #FE9D2A;
+$default: #777777;
+//BORDER
+$bra: solid 2px $bgcolor;
+
+//SPACE
+$pad: 20px;
+.bla{
+  border: solid 1px #000;
+}
+.bg{
+  // background-image: url('/images/');
+  // background-repeat: no-repeat;
+  //   background-attachment: fixed;
+  background-color: $bggrey;
+}
+
+.myname{
+  font-weight: 700;
+  font-size: 2.7em !important;
+  letter-spacing: 2px;
+  margin-top: 20px;
+}
+
+
+.nav > li > a{
+  font-size: 1.7em;
+  margin: 20px 0 20px 30px;
+  color: #756e6e !important;
+}
+
+.navbar-collapse {
+    max-height: 100% !important;
+}
+
+
+
+
+//BORDERS STYLE
+//RIGHT SIDE
+.yellow-bord{
+border: solid 2px #e6e6e6;
+background-color: #fff;
+padding: 30px 0 10px 0;
+}
+// h's
+.yellow-bord h1{
+  color: $default;
+  font-size: 1.5em;
+
+}
+.yellow-bord h5{
+  font-weight: 700 !important;
+  font-size: 1.2em !important;
+}
+.yellow-bord h2{
+  font-weight: 400 !important;
+  font-size: 1.4em !important;
+  letter-spacing: 1.2px;
+  padding-bottom: 10px;
+}
+
+//section2
+.blue-bord{
+border: solid 2px #e6e6e6;
+background-color: #fff;
+padding: 30px 0 10px 0;
+}
+
+//section 3
+.red-bord{
+border: solid 2px #e6e6e6;
+background-color: #fff;
+padding: 30px 0 10px 0;
+}
+
+// LEFT SIDE
+.left-side h1{
+  color: #000;
+  text-align: center;
+}
+.left-bar{
+  padding: 20px 0;
+  font-size: 1.4em;
+}
+.left-bar:hover{
+  background-color: #000;
+  color: #fff;
+}
+.left-active{
+  background-color: #000;
+  color: #fff;
+}
+body {
+  padding-top: 90px; }
+
+.rdbtn {
+  margin: 10px 3px !important;
+  background-color: #000 !important;
+  color: #fff !important; }
+
+#myse {
+  margin-top: 10px; }
+
+#myse h1 {
+  font-family: "Raleway", sans-serif;
+  margin-bottom: 20px; }
+
+#myse button {
+  font-family: "Raleway", sans-serif; }
+
+.bla {
+  border: solid 1px #000; }
+
+.mes {
+  font-size: 1.6em;
+  margin-bottom: 30px;
+  font-family: "Roboto", sans-serif; }
+
+.bgbras {
+  background-image: url("/images/brasilia.jpg");
+  background-size: cover;
+  height: 90vh; }
+
+.myname {
+  font-weight: 700;
+  font-size: 2.7em !important;
+  letter-spacing: 2px;
+  margin-top: 20px; }
+
+.my {
+  font-weight: 700;
+  font-size: 3em !important;
+  letter-spacing: 2px;
+  color: #fff;
+  background-color: #000;
+  font-family: "Raleway", sans-serif; }
+
+.subt {
+  font-weight: 400;
+  font-size: 5.2em !important;
+  letter-spacing: 2px;
+  color: #fff;
+  margin-top: 20%;
+  font-family: "Raleway", sans-serif; }
+
+.whz {
+  font-size: 2em;
+  font-weight: 100;
+  color: #fff;
+  margin-top: 1%;
+  font-family: "Roboto", sans-serif; }
+
+.nav > li > a {
+  font-size: 1.7em;
+  margin: 20px 0 20px 30px;
+  color: #756e6e !important; }
+
+.navbar {
+  font-family: "Roboto", sans-serif; }
+
+.navbar-collapse {
+  max-height: 100% !important; }
+
+.yellow-bord {
+  padding: 30px; }
+
+.yellow-bord h1 {
+  color: #777777;
+  font-size: 1.5em;
+  font-weight: 700; }
+
+.yellow-bord h5 {
+  font-weight: 700 !important;
+  font-size: 1.2em !important; }
+
+.yellow-bord h2 {
+  font-weight: 300 !important;
+  font-size: 1.5em !important;
+  letter-spacing: 1.2px;
+  padding-bottom: 10px; }
+
+.blue-bord {
+  background-color: #fff;
+  padding: 30px 0 10px 0; }
+
+.red-bord {
+  background-color: #fff;
+  padding: 30px 0 10px 0; }
+
+.left-side h1 {
+  color: #000;
+  text-align: center; }
+
+.left-bar {
+  padding: 20px 0;
+  font-size: 1.4em; }
+
+.left-bar:hover {
+  background-color: #000;
+  color: #fff; }
+
+.left-active {
+  background-color: #000;
+  color: #fff; }
+
+.hide-the {
+  display: none; }
+
+.right-active {
+  display: run-in; }
+
+#intro {
+  margin-top: 40px; }
+
+/*# sourceMappingURL=style.css.map */
